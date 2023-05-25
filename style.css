@@ -1,0 +1,23 @@
+.heading {
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+}
+
+.fredaoOBS {
+    color: orangered;
+    font-size: 20px;
+}
+
+body {
+    background-size: 70%;
+}
+
+.divVelocidadeIMG, .divVolumeIMG {
+    width: 200px;
+    border-radius: 100px;
+}
+ 
+#TrocarMusica {
+    font-size: 20px;
+}
